@@ -1,5 +1,5 @@
 # DuckDuckSolarized
-DuckDuckGo goes Solarized
+DuckDuckGo settings changed to Solarized theme by [Ethan Schoonover](http://ethanschoonover.com/solarized "Solarized by Ethan Schoonover.").
 
 The JSON config file.
 
