@@ -1,0 +1,2 @@
+# DuckDuckSolarized
+DuckDuckGo goes Solarized
